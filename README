@@ -1,0 +1,4 @@
+This repository contains Deep Reinforcement Learning Programs implemented mainly in PyTorch
+The Programs currently available are:
+1. Behaviour Cloning & Dagger - Solution to Homework1, CS 294-112 UC Berkeley.
+   Uses Open-AI gym and mujoco. 
